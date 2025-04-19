@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/errors.dir/errors.cpp.obj"
-  "CMakeFiles/errors.dir/errors.cpp.obj.d"
+  "CMakeFiles/errors.dir/errors.cpp.o"
+  "CMakeFiles/errors.dir/errors.cpp.o.d"
   "liberrors.a"
   "liberrors.pdb"
 )

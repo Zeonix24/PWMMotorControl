@@ -1,2 +1,2 @@
-C:/msys64/mingw64/bin/ar.exe qc libelf.a CMakeFiles/elf.dir/elf_file.cpp.obj
-C:/msys64/mingw64/bin/ranlib.exe libelf.a
+/usr/bin/ar qc libelf.a CMakeFiles/elf.dir/elf_file.cpp.o
+/usr/bin/ranlib libelf.a

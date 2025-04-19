@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/Jcjon/pico-sdk/src/rp2_common/pico_printf
+# Install script for directory: /home/zeo/tools/pico-sdk/src/rp2_common/pico_printf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/pwm_motor_control")
+  set(CMAKE_INSTALL_PREFIX "/usr/local")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -34,12 +34,6 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "C:/Program Files (x86)/Arm GNU Toolchain arm-none-eabi/14.2 rel1/bin/arm-none-eabi-objdump.exe")
+  set(CMAKE_OBJDUMP "/usr/bin/arm-none-eabi-objdump")
 endif()
 
-string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
-       "${CMAKE_INSTALL_MANIFEST_FILES}")
-if(CMAKE_INSTALL_LOCAL_ONLY)
-  file(WRITE "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pico-sdk/src/rp2_common/pico_printf/install_local_manifest.txt"
-     "${CMAKE_INSTALL_MANIFEST_CONTENT}")
-endif()

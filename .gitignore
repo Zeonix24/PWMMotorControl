@@ -1,1 +1,8 @@
-*.log
+# Ignore build files
+build/
+
+# Ignore format
+.clang-format
+
+# Ignore vscode config
+.vscode

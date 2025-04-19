@@ -1,7 +1,7 @@
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/rebuild_cache.dir
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/list_install_components.dir
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/install.dir
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/install/local.dir
-C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/pioasm/CMakeFiles/install/strip.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/pioasm.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/edit_cache.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/rebuild_cache.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/list_install_components.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/install.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/install/local.dir
+/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/install/strip.dir

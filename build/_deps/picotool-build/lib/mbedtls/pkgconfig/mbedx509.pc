@@ -1,4 +1,4 @@
-prefix=C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/_deps
+prefix=/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/_deps
 includedir=${prefix}/include
 libdir=${prefix}/lib
 
