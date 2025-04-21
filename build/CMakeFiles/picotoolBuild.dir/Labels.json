@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/CMakeFiles/picotoolBuild"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/CMakeFiles/picotoolBuild"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/CMakeFiles/picotoolBuild.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/CMakeFiles/picotoolBuild.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/CMakeFiles/picotoolBuild-complete.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/CMakeFiles/picotoolBuild-complete.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
 		},
 		{
-			"file" : "C:/Users/Jcjon/Documents/MyFiles/Raspberry_Pi_Pico/PWM_Voltage_Control/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+			"file" : "/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
 		}
 	],
 	"target" : 

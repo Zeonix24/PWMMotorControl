@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/elf2uf2.dir/elf2uf2.cpp.obj"
-  "CMakeFiles/elf2uf2.dir/elf2uf2.cpp.obj.d"
+  "CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o"
+  "CMakeFiles/elf2uf2.dir/elf2uf2.cpp.o.d"
   "libelf2uf2.a"
   "libelf2uf2.pdb"
 )

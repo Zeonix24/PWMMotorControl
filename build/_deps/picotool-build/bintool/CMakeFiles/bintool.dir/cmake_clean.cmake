@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/bintool.dir/bintool.cpp.obj"
-  "CMakeFiles/bintool.dir/bintool.cpp.obj.d"
-  "CMakeFiles/bintool.dir/mbedtls_wrapper.c.obj"
-  "CMakeFiles/bintool.dir/mbedtls_wrapper.c.obj.d"
+  "CMakeFiles/bintool.dir/bintool.cpp.o"
+  "CMakeFiles/bintool.dir/bintool.cpp.o.d"
+  "CMakeFiles/bintool.dir/mbedtls_wrapper.c.o"
+  "CMakeFiles/bintool.dir/mbedtls_wrapper.c.o.d"
   "libbintool.a"
   "libbintool.pdb"
 )
