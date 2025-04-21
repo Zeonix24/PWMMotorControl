@@ -1208,7 +1208,6 @@ CMakeFiles/pwm_motor_control.dir/home/zeo/tools/pico-sdk/lib/tinyusb/src/tusb.c.
   /usr/include/newlib/_ansi.h \
   /usr/include/newlib/_newlib_version.h \
   /usr/include/newlib/assert.h \
-  /usr/include/newlib/ctype.h \
   /usr/include/newlib/inttypes.h \
   /usr/include/newlib/machine/_default_types.h \
   /usr/include/newlib/machine/_types.h \
@@ -4429,11 +4428,8 @@ CMakeFiles/pwm_motor_control.dir/src/main.cpp.o: /home/zeo/Documents/EmbeddedPro
   /usr/include/newlib/c++/13.2.1/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h \
   /usr/include/newlib/c++/13.2.1/arm-none-eabi/thumb/v6-m/nofp/bits/os_defines.h \
   /usr/include/newlib/c++/13.2.1/cassert \
-  /usr/include/newlib/c++/13.2.1/cinttypes \
-  /usr/include/newlib/c++/13.2.1/cstdint \
   /usr/include/newlib/c++/13.2.1/cstdio \
   /usr/include/newlib/c++/13.2.1/pstl/pstl_config.h \
-  /usr/include/newlib/inttypes.h \
   /usr/include/newlib/machine/_default_types.h \
   /usr/include/newlib/machine/_types.h \
   /usr/include/newlib/machine/ieeefp.h \
@@ -4441,7 +4437,6 @@ CMakeFiles/pwm_motor_control.dir/src/main.cpp.o: /home/zeo/Documents/EmbeddedPro
   /usr/include/newlib/stdio.h \
   /usr/include/newlib/string.h \
   /usr/include/newlib/strings.h \
-  /usr/include/newlib/sys/_intsup.h \
   /usr/include/newlib/sys/_locale.h \
   /usr/include/newlib/sys/_types.h \
   /usr/include/newlib/sys/cdefs.h \
@@ -4458,8 +4453,6 @@ CMakeFiles/pwm_motor_control.dir/src/main.cpp.o: /home/zeo/Documents/EmbeddedPro
 
 
 /usr/include/newlib/c++/13.2.1/cstdio:
-
-/usr/include/newlib/c++/13.2.1/cinttypes:
 
 /home/zeo/tools/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/pwm.h:
 
@@ -4542,10 +4535,6 @@ pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h:
 /usr/include/newlib/c++/13.2.1/cassert:
 
 /usr/include/newlib/c++/13.2.1/bits/std_abs.h:
-
-/home/zeo/tools/pico-sdk/src/rp2_common/pico_runtime/runtime.c:
-
-/usr/include/newlib/c++/13.2.1/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h:
 
 /home/zeo/tools/pico-sdk/src/rp2040/hardware_structs/include/hardware/structs/usb_dpram.h:
 
@@ -4657,8 +4646,6 @@ pico-sdk/src/rp2_common/pico_cyw43_driver/cyw43_bus_pio_spi.pio.h:
 
 /usr/include/newlib/inttypes.h:
 
-/usr/include/newlib/c++/13.2.1/cstdint:
-
 /home/zeo/tools/pico-sdk/src/rp2_common/pico_stdio_usb/include/pico/stdio_usb.h:
 
 /usr/include/newlib/sys/types.h:
@@ -4724,8 +4711,6 @@ generated/pico_base/pico/config_autogen.h:
 /home/zeo/tools/pico-sdk/src/rp2040/hardware_regs/include/hardware/regs/xip.h:
 
 /home/zeo/tools/pico-sdk/lib/cyw43-driver/src/cyw43_ll.h:
-
-/usr/include/newlib/ctype.h:
 
 /usr/lib/gcc/arm-none-eabi/13.2.1/include/stdbool.h:
 
@@ -5110,3 +5095,7 @@ generated/pico_base/pico/version.h:
 /home/zeo/tools/pico-sdk/lib/cyw43-driver/src/cyw43_internal.h:
 
 /usr/include/newlib/sys/stat.h:
+
+/home/zeo/tools/pico-sdk/src/rp2_common/pico_runtime/runtime.c:
+
+/usr/include/newlib/c++/13.2.1/arm-none-eabi/thumb/v6-m/nofp/bits/cpu_defines.h:
