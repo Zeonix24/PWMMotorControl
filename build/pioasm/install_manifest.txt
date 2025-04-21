@@ -1,5 +1,0 @@
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm-install/pioasm/pioasm
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm-install/pioasm/pioasmTargets.cmake
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm-install/pioasm/pioasmTargets-release.cmake
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm-install/pioasm/pioasmConfig.cmake
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm-install/pioasm/pioasmConfigVersion.cmake

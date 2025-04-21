@@ -1,5 +1,0 @@
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/_deps/picotool/picotool
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/_deps/picotool/picotoolTargets.cmake
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/_deps/picotool/picotoolTargets-release.cmake
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/_deps/picotool/picotoolConfig.cmake
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/_deps/picotool/picotoolConfigVersion.cmake

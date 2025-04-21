@@ -1,7 +1,0 @@
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/pioasm.dir
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/edit_cache.dir
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/rebuild_cache.dir
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/list_install_components.dir
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/install.dir
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/install/local.dir
-/home/zeo/Documents/EmbeddedProj/PWMMotorControl/build/pioasm/CMakeFiles/install/strip.dir
