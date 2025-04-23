@@ -13,5 +13,5 @@ constexpr uint8_t ADC1_INPUT = 1;
 
 // CONSTANTS
 constexpr float CONVERSION_FACTOR = 3.3f / (1 << 12);
-constexpr float THRESHOLD_CURRENT = 0.10f;
+constexpr float THRESHOLD_CURRENT = 0.01f;
 constexpr uint16_t FREQ_HZ = 25000;
