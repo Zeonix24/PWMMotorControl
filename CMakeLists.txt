@@ -10,9 +10,11 @@ set(CXX_STANDARD_REQUIRED 17)
 
 pico_sdk_init()
 
-add_executable(${PROJECT_NAME} 
-    src/main.cpp
+file(GLOB_RECURSE SRC_FILES CMAKE_CONFIGURE_DEPENDS
+    "${CMAKE_SOURCE_DIR}/src/*.cpp"
 )
+
+add_executable(${PROJECT_NAME} ${SRC_FILES})
 
 target_include_directories(${PROJECT_NAME} PRIVATE
     ${CMAKE_CURRENT_LIST_DIR}/src
@@ -24,6 +26,7 @@ target_link_libraries(${PROJECT_NAME}
     hardware_pwm
     hardware_gpio
     hardware_adc
+    hardware_watchdog
 )
 
 pico_enable_stdio_usb(${PROJECT_NAME} 1)
