@@ -12,4 +12,4 @@
 
 void setup_current_sensor();
 float calibrate_current_sensor();
-void read_current(float zero_voltage);
+float read_current(float zero_voltage);

@@ -3,7 +3,7 @@
 void setup_reset_button()
 {
     gpio_init(RESET_BUTTON_PIN);
-    gpio_set_dir(RESET_BUTTON_PIN, GPIO_OUT);
+    gpio_set_dir(RESET_BUTTON_PIN, GPIO_IN);
     gpio_pull_up(RESET_BUTTON_PIN);
 }
 

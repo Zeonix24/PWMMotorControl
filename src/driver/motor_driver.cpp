@@ -19,5 +19,5 @@ void set_motor_duty_cycle(uint8_t duty_cycle)
 {
     uint16_t level = (g_wrap_value * duty_cycle) / 100;
     pwm_set_gpio_level(MOTOR_PIN, level);
-    printf("Motor duty cycle set to: %u%%\n", duty_cycle);
+    // printf("Motor duty cycle set to: %u%%\n", duty_cycle);
 }
