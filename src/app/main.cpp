@@ -7,7 +7,7 @@
 #include "driver/reset_button.hpp"
 #include "lowpass_filter.tpp"
 
-LowPass<2> lp(4.0f, 1000.0f, true);
+LowPass<2> lp(3.0f, 1000.0f, true);
 
 int main()
 {

@@ -15,3 +15,7 @@ constexpr uint8_t ADC1_INPUT = 1;
 constexpr float CONVERSION_FACTOR = 3.3f / (1 << 12);
 constexpr float THRESHOLD_CURRENT = 0.01f;
 constexpr uint16_t FREQ_HZ = 25000;
+constexpr float SENS = 0.100f;  // ACS712 Sensitvity:
+                                // 185mV/A @ 5A
+                                // 100mV/A @ 20A
+                                // 65mV/A @ 30A

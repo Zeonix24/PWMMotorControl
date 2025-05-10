@@ -10,7 +10,7 @@ void setup_current_sensor()
 float calibrate_current_sensor()
 {
     adc_select_input(ADC2_INPUT);
-    uint16_t samples = 600;
+    uint16_t samples = 500;
     uint64_t total = 0;
     for (uint16_t i = 0; i < samples; i++)
     {
@@ -32,7 +32,7 @@ float read_current(float zero_voltage)
     }
     float avg_ACS = static_cast<float>(totalACS) / samples;
 
-    float current_I = ((zero_voltage - (avg_ACS * CONVERSION_FACTOR)) / 0.100);
+    float current_I = (((avg_ACS * CONVERSION_FACTOR) - zero_voltage) / SENS);
 
     return (current_I);
 }
