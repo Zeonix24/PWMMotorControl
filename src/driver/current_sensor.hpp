@@ -3,6 +3,7 @@
 #include "hardware/gpio.h"
 #include "hardware/adc.h"
 #include "pico/stdlib.h"
+#include "pico/cyw43_arch.h"
 
 #include "common/constants.hpp"
 #include "common/types.hpp"

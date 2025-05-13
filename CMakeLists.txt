@@ -27,6 +27,8 @@ target_link_libraries(${PROJECT_NAME}
     hardware_gpio
     hardware_adc
     hardware_watchdog
+    hardware_flash
+    hardware_sync
 )
 
 pico_enable_stdio_usb(${PROJECT_NAME} 1)
