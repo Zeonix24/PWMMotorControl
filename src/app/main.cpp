@@ -18,7 +18,7 @@ int main()
         return -1;
     }
     cyw43_arch_gpio_put(CYW43_WL_GPIO_LED_PIN, true);
-
+    bool trigger = false;
     setup_leds();
     setup_reset_button();
     setup_current_sensor();
@@ -27,7 +27,7 @@ int main()
     setup_pwm_motor();
 
     set_motor_duty_cycle(duty_cycles[motor_state_index]);
-    sleep_ms(5000);
+    // sleep_ms(5000);
     watchdog_enable(3000, 1);
     while (1)
     {
@@ -37,7 +37,12 @@ int main()
             lp.filt(read_current(zero_voltage));  // the returned current is
                                                   // filtered by low-pass filter
 
-        if (current < THRESHOLD_CURRENT)
+        if (current > THRESHOLD_CURRENT)
+        {
+            trigger = true;
+        }
+
+        if (current < THRESHOLD_CURRENT && trigger == true)
         {
             motor_state_index = 0;
         } else

@@ -3,14 +3,13 @@
 void setup_current_sensor()
 {
     adc_init();
-    adc_gpio_init(PICO3V3_PIN);
     adc_gpio_init(ACS712_PIN);
 }
 
 float calibrate_current_sensor()
 {
     adc_select_input(ADC2_INPUT);
-    uint16_t samples = 600;
+    uint16_t samples = 500;
     uint64_t total = 0;
     for (uint16_t i = 0; i < samples; i++)
     {
